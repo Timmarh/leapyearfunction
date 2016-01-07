@@ -1,4 +1,4 @@
-# arno timmer
+# arno timmer & jan pokorn
 # 07/01/2016
 leapyear <- function(year){
 	# check if the input is a number

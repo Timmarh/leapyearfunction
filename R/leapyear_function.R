@@ -11,6 +11,6 @@ is.leapyear <- function(year){
 				else if (year %% 400 != 0) {F} 
 		else {T}
 		}
-		else {stop('We didn have leapyears yet then')}}
+		else {stop("We didn't have leapyears yet then")}}
 	else {stop('the year is not a number')}
 	}
